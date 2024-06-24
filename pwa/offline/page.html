@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset='UTF-8'>
+  <meta content='width=device-width, initial-scale=1' name='viewport'>
+  <title>Offline</title>
+  <style>
+    html, body, .container {
+      height: 100%;
+    }
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      font-size: 15px;
+    }
+    .container {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: center;
+    }
+    .container > div {
+      padding: 25px;
+      max-width: 450px;
+    }
+    .container > div > * {
+      display: block;
+      width: 100%;
+      text-align: center;
+      margin-block: 24px;
+      line-height: 24px;
+    }
+    .icon {
+      width: 90px;
+      height: 90px;
+    }
+    .button {
+      display: inline-block;
+      border-radius: 5px;
+      outline: none;
+      font-family: Arial, sans-serif;
+      width: auto;
+      background: #2196f3;
+      color: white;
+      padding: 6px 18px;
+      font-size: 13.3333px;
+      text-decoration: none;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <div class='container'>
+    <div>
+      <div>
+        <svg class='icon' xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' class='feather feather-wifi-off'><line x1='1' y1='1' x2='23' y2='23'></line><path d='M16.72 11.06A10.94 10.94 0 0 1 19 12.55'></path><path d='M5 12.55a10.94 10.94 0 0 1 5.17-2.39'></path><path d='M10.71 5.05A16 16 0 0 1 22.58 9'></path><path d='M1.42 9a15.91 15.91 0 0 1 4.7-2.88'></path><path d='M8.53 16.11a6 6 0 0 1 6.95 0'></path><line x1='12' y1='20' x2='12.01' y2='20'></line></svg>
+      </div>
+      <h1>You are offline..</h1>
+      <div>It seems there is a problem with your connection, please check your network status</div>
+      <div>
+        <a class='button' href='/?m=0' onclick='this.style.opacity=0.6'>Try again</a>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
