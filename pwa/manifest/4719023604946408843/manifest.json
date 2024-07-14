@@ -1,0 +1,24 @@
+{
+  "short_name": "Janar Lokkhe",
+  "name": "Janar Lokkhe",
+  "description": "Janar Lokkhe premium blogger template.",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDwElRrtxqRVatslK7lrZkZ69se9rPJZVdmjAc12bSNw27_I80k64xQpAobKsbVzvU918KVMz1fE6ES-whbAmbNGjVibg-TzgDZSxRNCjxnDUsROB3JiOotuJbPox9mSl48MNn-hqc_aLApgEkWp-SqYGGVT6eKeCN_I6IhTJwDV0kH32_L8En6GzQe9gK/s192/20240713_144114.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDwElRrtxqRVatslK7lrZkZ69se9rPJZVdmjAc12bSNw27_I80k64xQpAobKsbVzvU918KVMz1fE6ES-whbAmbNGjVibg-TzgDZSxRNCjxnDUsROB3JiOotuJbPox9mSl48MNn-hqc_aLApgEkWp-SqYGGVT6eKeCN_I6IhTJwDV0kH32_L8En6GzQe9gK/s512/20240713_144114.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "scope": "/",
+  "background_color": "#ffffff",
+  "theme_color": "#1971d6",
+  "display": "standalone"
+}
