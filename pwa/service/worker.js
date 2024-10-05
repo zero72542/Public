@@ -33,3 +33,11 @@ self.addEventListener('fetch', (event) => {
     })());
   }
 });
+
+
+self.addEventListener('notificationclick', function(event) {
+  event.notification.close(); // Close the notification
+  event.waitUntil(
+    clients.openWindow('https://example.com/messages') // Open a window when the notification is clicked
+  );
+});
