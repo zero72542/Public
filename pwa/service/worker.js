@@ -33,11 +33,22 @@ self.addEventListener('fetch', (event) => {
     })());
   }
 });
-
-
+//send notification
 self.addEventListener('notificationclick', function(event) {
-  event.notification.close(); // Close the notification
+  event.notification.close();
+
+  const postUrl = event.notification.data.url;
+
   event.waitUntil(
-    clients.openWindow('https://example.com/messages') // Open a window when the notification is clicked
+    clients.matchAll({ type: 'window' }).then(windowClients => {
+      for (let client of windowClients) {
+        if (client.url === postUrl && 'focus' in client) {
+          return client.focus();
+        }
+      }
+      if (clients.openWindow) {
+        return clients.openWindow(postUrl);
+      }
+    })
   );
 });
