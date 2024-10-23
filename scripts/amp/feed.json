@@ -1,0 +1,618 @@
+{
+  "version": "1.0",
+  "encoding": "UTF-8",
+  "feed": {
+    "xmlns": "http://www.w3.org/2005/Atom",
+    "xmlns$openSearch": "http://a9.com/-/spec/opensearchrss/1.0/",
+    "xmlns$blogger": "http://schemas.google.com/blogger/2008",
+    "xmlns$georss": "http://www.georss.org/georss",
+    "xmlns$gd": "http://schemas.google.com/g/2005",
+    "xmlns$thr": "http://purl.org/syndication/thread/1.0",
+    "id": {
+      "$t": "tag:blogger.com,1999:blog-8256637570485217247"
+    },
+    "updated": {
+      "$t": "2024-10-22T22:40:36.886-07:00"
+    },
+    "category": [
+      {
+        "term": "Tips & Trik"
+      },
+      {
+        "term": "টিপস এন্ড ট্রিক্স"
+      },
+      {
+        "term": "Info"
+      },
+      {
+        "term": "Troubleshoot"
+      },
+      {
+        "term": "NU Honours"
+      },
+      {
+        "term": "Aplikasi"
+      },
+      {
+        "term": "Fotografi"
+      },
+      {
+        "term": "খেলার খবর"
+      },
+      {
+        "term": "Blogger Tutorial"
+      },
+      {
+        "term": "Oprek"
+      },
+      {
+        "term": "অ্যাপস রিভিউ"
+      },
+      {
+        "term": "ক্রিকেট খেলার খবর"
+      },
+      {
+        "term": "গুগল ড্রাইভ"
+      },
+      {
+        "term": "পড়াশোনার খবর"
+      },
+      {
+        "term": "ফেসবুক টিপস"
+      },
+      {
+        "term": "Magisk"
+      },
+      {
+        "term": "মোবাইল টিপস"
+      },
+      {
+        "term": "Root"
+      },
+      {
+        "term": "আইন ও মামলা"
+      },
+      {
+        "term": "আইপিএল"
+      },
+      {
+        "term": "জাভা মোবাইল"
+      },
+      {
+        "term": "জীবনানন্দ দাশের কবিতা"
+      },
+      {
+        "term": "বাংলা কবিতা"
+      },
+      {
+        "term": "সাধারণ জ্ঞান"
+      },
+      {
+        "term": "PDF Book"
+      },
+      {
+        "term": "PDF File"
+      },
+      {
+        "term": "ইসলামিক পোস্ট"
+      },
+      {
+        "term": "ইসলামীক হাদিস"
+      },
+      {
+        "term": "এশিয়া কাপ ক্রিকেট"
+      },
+      {
+        "term": "ক্যাপশন স্ট্যাটাস উক্তি"
+      },
+      {
+        "term": "ক্রিকেট বিশ্বকাপ"
+      },
+      {
+        "term": "জাভা গেম"
+      },
+      {
+        "term": "পিএসএল"
+      },
+      {
+        "term": "ফুটবল খেলার খবর"
+      },
+      {
+        "term": "বাংলালিংক অপারেটর"
+      },
+      {
+        "term": "বিকাশ একাউন্ট"
+      },
+      {
+        "term": "মোবাইল অপারেটর খবর"
+      },
+      {
+        "term": "মোবাইল ব্যাংকিং"
+      }
+    ],
+    "title": {
+      "type": "text",
+      "$t": "Zap Mag Beta"
+    },
+    "subtitle": {
+      "type": "html",
+      "$t": ""
+    },
+    "link": [
+      {
+        "rel": "http://schemas.google.com/g/2005#feed",
+        "type": "application/atom+xml",
+        "href": "https://zapmag-test.blogspot.com/feeds/posts/summary"
+      },
+      {
+        "rel": "self",
+        "type": "application/atom+xml",
+        "href": "https://www.blogger.com/feeds/8256637570485217247/posts/summary?alt=json&max-results=5"
+      },
+      {
+        "rel": "alternate",
+        "type": "text/html",
+        "href": "https://zapmag-test.blogspot.com/"
+      },
+      {
+        "rel": "hub",
+        "href": "http://pubsubhubbub.appspot.com/"
+      },
+      {
+        "rel": "next",
+        "type": "application/atom+xml",
+        "href": "https://www.blogger.com/feeds/8256637570485217247/posts/summary?alt=json&start-index=6&max-results=5"
+      }
+    ],
+    "author": [
+      {
+        "name": {
+          "$t": "Md Rakib"
+        },
+        "uri": {
+          "$t": "http://www.blogger.com/profile/10509296978497462677"
+        },
+        "email": {
+          "$t": "noreply@blogger.com"
+        },
+        "gd$image": {
+          "rel": "http://schemas.google.com/g/2005#thumbnail",
+          "width": "16",
+          "height": "16",
+          "src": "https://img1.blogblog.com/img/b16-rounded.gif"
+        }
+      }
+    ],
+    "generator": {
+      "version": "7.00",
+      "uri": "http://www.blogger.com",
+      "$t": "Blogger"
+    },
+    "openSearch$totalResults": {
+      "$t": "111"
+    },
+    "openSearch$startIndex": {
+      "$t": "1"
+    },
+    "openSearch$itemsPerPage": {
+      "$t": "5"
+    },
+    "entry": [
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-8256637570485217247.post-8399034772588669154"
+        },
+        "published": {
+          "$t": "2024-10-02T03:21:00.000-07:00"
+        },
+        "updated": {
+          "$t": "2024-10-22T22:40:01.560-07:00"
+        },
+        "category": [
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "NU Honours"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "অনার্স ১ম, ২য়, ৩য় ও ৪র্থ বর্ষের ভূগােল বিভাগের বইয়ের তালিকা"
+        },
+        "summary": {
+          "type": "text",
+          "$t": "জাতীয় বিশ্ববিদ্যালয়ের অনার্সের ভূগােল বিভাগের প্রতি বর্ষে আলাদা আলাদা বই পড়তে হয়। এই কারনে অনার্সের ভূগােল বিভাগের সকল বর্ষের বইয়ের নাম জেনে রাখা জরুরী। এই পোস্টে আমি আপনাদেরকে অনার্স ১ম, ২য়, ৩য় ও ৪র্থ বর্ষের ভূগােল বিভাগের বইয়ের তালিকা দিব।&nbsp;আপনারা এই পোস্ট থেকে অনার্সের ভূগােল বিভাগের ১ম, ২য়, ৩য় ও ৪র্থ বর্ষে কোন কোন বই পড়তে হবে বিস্তারিত তথ্যসহ জানতে পারবেন। এছাড়াও অনার্স ভূগােল"
+        },
+        "link": [
+          {
+            "rel": "replies",
+            "type": "application/atom+xml",
+            "href": "https://zapmag-test.blogspot.com/feeds/8399034772588669154/comments/default",
+            "title": "Post Comments"
+          },
+          {
+            "rel": "replies",
+            "type": "text/html",
+            "href": "https://zapmag-test.blogspot.com/2024/10/blog-post.html#comment-form",
+            "title": "0 Comments"
+          },
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/8256637570485217247/posts/default/8399034772588669154"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/8256637570485217247/posts/default/8399034772588669154"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://zapmag-test.blogspot.com/2024/10/blog-post.html",
+            "title": "অনার্স ১ম, ২য়, ৩য় ও ৪র্থ বর্ষের ভূগােল বিভাগের বইয়ের তালিকা"
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Md Rakib"
+            },
+            "uri": {
+              "$t": "http://www.blogger.com/profile/10509296978497462677"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "16",
+              "height": "16",
+              "src": "https://img1.blogblog.com/img/b16-rounded.gif"
+            }
+          }
+        ],
+        "media$thumbnail": {
+          "xmlns$media": "http://search.yahoo.com/mrss/",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJBz_Fr79kIP6-cSTQw0TclGslVIWf02KI19Vfhv3rK0PsryYn4QnNj481uj_1ijCbZYLT5BXvfDHhewA_s-XNGyu5Wyw_OJfHkY2oICgAZQU682q8EZ7Yqe6yOQkAwjvqEC12Ba_n6iKoqFEJgnrvG53HOT_kVw_BMvaAx0fg4Dok_lAr3jqi8CHY1jtl/s72-w640-h400-c/%E0%A6%85%E0%A6%A8%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B8-%E0%A7%A7%E0%A6%AE-%E0%A7%A8%E0%A6%AF%E0%A6%BC-%E0%A7%A9%E0%A6%AF%E0%A6%BC-%E0%A7%AA%E0%A6%B0%E0%A7%8D%E0%A6%A5-%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%B7%E0%A7%87%E0%A6%B0-%E0%A6%AD%E0%A7%82%E0%A6%97%E0%A6%BE%E0%A7%87%E0%A6%B2-%E0%A6%AC%E0%A6%BF%E0%A6%AD%E0%A6%BE%E0%A6%97%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%87%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%B0-%E0%A6%A4%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%95%E0%A6%BE.webp",
+          "height": "72",
+          "width": "72"
+        },
+        "thr$total": {
+          "$t": "0"
+        }
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-8256637570485217247.post-6884907613244612542"
+        },
+        "published": {
+          "$t": "2024-10-02T01:09:00.000-07:00"
+        },
+        "updated": {
+          "$t": "2024-10-22T22:40:00.684-07:00"
+        },
+        "category": [
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "NU Honours"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "অনার্স ১ম, ২য়, ৩য় ও ৪র্থ বর্ষের সংস্কৃত বিভাগের বইয়ের তালিকা"
+        },
+        "summary": {
+          "type": "text",
+          "$t": "জাতীয় বিশ্ববিদ্যালয়ের অনার্সের সংস্কৃত বিভাগের সকল শিক্ষার্থীদের বইয়ের তালিকা জানা জরুরী। কেননা অনার্সে সংস্কৃত বিভাগের প্রতি বর্ষে বই পরিবর্তন হয়ে থাকে। এই পোস্টে আমি আপনাদেরকে অনার্স ১ম, ২য়, ৩য় ও ৪র্থ বর্ষের সংস্কৃত বিভাগের বইয়ের তালিকা দিব।&nbsp;আপনারা উক্ত তালিকাগুলো থেকে অনার্সের সংস্কৃত বিভাগের ১ম, ২য়, ৩য় ও ৪র্থ বর্ষে কোন কোন বই পড়তে হবে বিস্তারিত তথ্যসহ জানতে পারবেন। এছাড়াও "
+        },
+        "link": [
+          {
+            "rel": "replies",
+            "type": "application/atom+xml",
+            "href": "https://zapmag-test.blogspot.com/feeds/6884907613244612542/comments/default",
+            "title": "Post Comments"
+          },
+          {
+            "rel": "replies",
+            "type": "text/html",
+            "href": "https://zapmag-test.blogspot.com/2024/10/blog-post_2.html#comment-form",
+            "title": "4 Comments"
+          },
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/8256637570485217247/posts/default/6884907613244612542"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/8256637570485217247/posts/default/6884907613244612542"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://zapmag-test.blogspot.com/2024/10/blog-post_2.html",
+            "title": "অনার্স ১ম, ২য়, ৩য় ও ৪র্থ বর্ষের সংস্কৃত বিভাগের বইয়ের তালিকা"
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Md Rakib"
+            },
+            "uri": {
+              "$t": "http://www.blogger.com/profile/10509296978497462677"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "16",
+              "height": "16",
+              "src": "https://img1.blogblog.com/img/b16-rounded.gif"
+            }
+          }
+        ],
+        "media$thumbnail": {
+          "xmlns$media": "http://search.yahoo.com/mrss/",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjld04nTGzkGNLyjJoSQtCtQNSUr59mH-nXxhoz9UBZ_sdVCit-9yUnnBerVh7cspvwjGE3pMDli-KMIbtYHC3xptbrI8g1nFlfWS_ZNr7kOdQYcYHjhXoksOS7ZGIsGZbFbYKJ1MGj1NnKPzlVuwLgKvC3q9Yq6VON2D1qiRvAJzUJBfWgyRG-qzJshPN3/s72-w640-h400-c/%E0%A6%85%E0%A6%A8%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B8-%E0%A7%A7%E0%A6%AE-%E0%A7%A8%E0%A6%AF%E0%A6%BC-%E0%A7%A9%E0%A6%AF%E0%A6%BC-%E0%A7%AA%E0%A6%B0%E0%A7%8D%E0%A6%A5-%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%B7%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%82%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A7%83%E0%A6%A4-%E0%A6%AC%E0%A6%BF%E0%A6%AD%E0%A6%BE%E0%A6%97%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%87%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%B0-%E0%A6%A4%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%95%E0%A6%BE.webp",
+          "height": "72",
+          "width": "72"
+        },
+        "thr$total": {
+          "$t": "4"
+        }
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-8256637570485217247.post-1912062792933180799"
+        },
+        "published": {
+          "$t": "2024-10-01T11:58:00.000-07:00"
+        },
+        "updated": {
+          "$t": "2024-10-22T22:39:57.428-07:00"
+        },
+        "category": [
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "NU Honours"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "অনার্স ১ম, ২য়, ৩য় ও ৪র্থ বর্ষের ইতিহাস বিভাগের বইয়ের তালিকা"
+        },
+        "summary": {
+          "type": "text",
+          "$t": "জাতীয় বিশ্ববিদ্যালয়ের অনার্সের ইতিহাস বিভাগের সকল শিক্ষার্থীদের বইয়ের তালিকা জানা জরুরী। কেননা অনার্সে ইতিহাস বিভাগের প্রতি বর্ষে বই পরিবর্তন হয়ে থাকে। এই পোস্টে আমি আপনাদেরকে অনার্স ১ম, ২য়, ৩য় ও ৪র্থ বর্ষের ইতিহাস বিভাগের বইয়ের তালিকা দিব।&nbsp;আপনারা উক্ত তালিকাগুলো থেকে অনার্সের ইতিহাস বিভাগের ১ম, ২য়, ৩য় ও ৪র্থ বর্ষে কোন কোন বই পড়তে হবে বিস্তারিত তথ্যসহ জানতে পারবেন। এছাড়াও অনার্স "
+        },
+        "link": [
+          {
+            "rel": "replies",
+            "type": "application/atom+xml",
+            "href": "https://zapmag-test.blogspot.com/feeds/1912062792933180799/comments/default",
+            "title": "Post Comments"
+          },
+          {
+            "rel": "replies",
+            "type": "text/html",
+            "href": "https://zapmag-test.blogspot.com/2024/10/blog-post_1.html#comment-form",
+            "title": "0 Comments"
+          },
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/8256637570485217247/posts/default/1912062792933180799"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/8256637570485217247/posts/default/1912062792933180799"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://zapmag-test.blogspot.com/2024/10/blog-post_1.html",
+            "title": "অনার্স ১ম, ২য়, ৩য় ও ৪র্থ বর্ষের ইতিহাস বিভাগের বইয়ের তালিকা"
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Md Rakib"
+            },
+            "uri": {
+              "$t": "http://www.blogger.com/profile/10509296978497462677"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "16",
+              "height": "16",
+              "src": "https://img1.blogblog.com/img/b16-rounded.gif"
+            }
+          }
+        ],
+        "media$thumbnail": {
+          "xmlns$media": "http://search.yahoo.com/mrss/",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7RfVJc7-f5hhrXNcb75xNMX-frkT1suqnWJXrm5-P51xGIzVcLvKrq9TzOL0I0WZzYs7IqbTZoDvjHmpw6otEIpOPye-FX1emwRjeyFuuTgmZQ8u6jj9WE8cQszR4AvVO0AC8wGYGWx8FEqqNY_OBeciQez3UULtwHPkJRPFa2iWi54qff8ZF1fXtCwce/s72-w640-h400-c/%E0%A6%85%E0%A6%A8%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B8-%E0%A7%A7%E0%A6%AE-%E0%A7%A8%E0%A6%AF%E0%A6%BC-%E0%A7%A9%E0%A6%AF%E0%A6%BC-%E0%A7%AA%E0%A6%B0%E0%A7%8D%E0%A6%A5-%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%B7%E0%A7%87%E0%A6%B0-%E0%A6%87%E0%A6%A4%E0%A6%BF%E0%A6%B9%E0%A6%BE%E0%A6%B8-%E0%A6%AC%E0%A6%BF%E0%A6%AD%E0%A6%BE%E0%A6%97%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%87%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%B0-%E0%A6%A4%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%95%E0%A6%BE.webp",
+          "height": "72",
+          "width": "72"
+        },
+        "thr$total": {
+          "$t": "0"
+        }
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-8256637570485217247.post-9164100326712616429"
+        },
+        "published": {
+          "$t": "2024-10-01T05:46:00.000-07:00"
+        },
+        "updated": {
+          "$t": "2024-10-22T22:40:01.754-07:00"
+        },
+        "category": [
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "NU Honours"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "অনার্স ১ম, ২য়, ৩য় ও ৪র্থ বর্ষের ফিন্যান্স বিভাগের বইয়ের তালিকা"
+        },
+        "summary": {
+          "type": "text",
+          "$t": "আপনি কি জাতীয় বিশ্ববিদ্যালয়ের অনার্সের ফিন্যান্স বিভাগের সকল বর্ষের বইয়ের তালিকা জানতে চাচ্ছেন? তাহলে সঠিক জায়গায় এসেছেন। কেননা এই পোস্টে আমি আপনাদেরকে অনার্স ১ম, ২য়, ৩য় ও ৪র্থ বর্ষের ফিন্যান্স বিভাগের বইয়ের তালিকা দিব।&nbsp;আপনারা উক্ত তালিকাগুলো থেকে অনার্সের ফিন্যান্স বিভাগের ১ম, ২য়, ৩য় ও ৪র্থ বর্ষে কোন কোন বই পড়তে হবে বিস্তারিত তথ্যসহ জানতে পারবেন। এছাড়াও আপনার সিলেবাস অনুযায়ী "
+        },
+        "link": [
+          {
+            "rel": "replies",
+            "type": "application/atom+xml",
+            "href": "https://zapmag-test.blogspot.com/feeds/9164100326712616429/comments/default",
+            "title": "Post Comments"
+          },
+          {
+            "rel": "replies",
+            "type": "text/html",
+            "href": "https://zapmag-test.blogspot.com/2024/10/blog-post_15.html#comment-form",
+            "title": "0 Comments"
+          },
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/8256637570485217247/posts/default/9164100326712616429"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/8256637570485217247/posts/default/9164100326712616429"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://zapmag-test.blogspot.com/2024/10/blog-post_15.html",
+            "title": "অনার্স ১ম, ২য়, ৩য় ও ৪র্থ বর্ষের ফিন্যান্স বিভাগের বইয়ের তালিকা"
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Md Rakib"
+            },
+            "uri": {
+              "$t": "http://www.blogger.com/profile/10509296978497462677"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "16",
+              "height": "16",
+              "src": "https://img1.blogblog.com/img/b16-rounded.gif"
+            }
+          }
+        ],
+        "media$thumbnail": {
+          "xmlns$media": "http://search.yahoo.com/mrss/",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuPWZlhvyyKIxQlmysnET7W7wCkCyO1GwTClObuL-kI_9tvIpkltrE-jW7aLZhM4T5KDoO7zeQ8Sp1Ehuzk6rtRvxmw0VeL0QDmkHEvYld3bDkrStlLrjnLNkdlNbHfs2KUOHwE9jq1swoCpqsyQIWrJqdHKatpqy2NXtyKq3Z-VhFNagbzI3NWXY4nfQe/s72-w640-h400-c/%E0%A6%85%E0%A6%A8%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B8-%E0%A7%A7%E0%A6%AE-%E0%A7%A8%E0%A6%AF%E0%A6%BC-%E0%A7%A9%E0%A6%AF%E0%A6%BC-%E0%A7%AA%E0%A6%B0%E0%A7%8D%E0%A6%A5-%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%B7%E0%A7%87%E0%A6%B0-%E0%A6%AB%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%B8-%E0%A6%AC%E0%A6%BF%E0%A6%AD%E0%A6%BE%E0%A6%97%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%87%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%B0-%E0%A6%A4%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%95%E0%A6%BE.webp",
+          "height": "72",
+          "width": "72"
+        },
+        "thr$total": {
+          "$t": "0"
+        }
+      },
+      {
+        "id": {
+          "$t": "tag:blogger.com,1999:blog-8256637570485217247.post-793018958866011900"
+        },
+        "published": {
+          "$t": "2024-10-01T01:32:00.000-07:00"
+        },
+        "updated": {
+          "$t": "2024-10-22T22:39:56.942-07:00"
+        },
+        "category": [
+          {
+            "scheme": "http://www.blogger.com/atom/ns#",
+            "term": "NU Honours"
+          }
+        ],
+        "title": {
+          "type": "text",
+          "$t": "অনার্স ১ম, ২য়, ৩য় ও ৪র্থ বর্ষের সমাজকর্ম বিভাগের বইয়ের তালিকা"
+        },
+        "summary": {
+          "type": "text",
+          "$t": "জাতীয় বিশ্ববিদ্যালয়ের অনার্সের সমাজকর্ম বিভাগের প্রতি বর্ষে আলাদা আলাদা বই পড়তে হয়। এই কারনে অনার্সের সমাজকর্ম বিভাগের সকল বর্ষের বইয়ের নাম জেনে রাখা জরুরী। এই পোস্টে আমি আপনাদেরকে অনার্স ১ম, ২য়, ৩য় ও ৪র্থ বর্ষের সমাজকর্ম বিভাগের বইয়ের তালিকা দিব।&nbsp;আপনারা এই পোস্ট থেকে অনার্সের সমাজকর্ম বিভাগের ১ম, ২য়, ৩য় ও ৪র্থ বর্ষে কোন কোন বই পড়তে হবে বিস্তারিত তথ্যসহ জানতে পারবেন। এছাড়াও "
+        },
+        "link": [
+          {
+            "rel": "replies",
+            "type": "application/atom+xml",
+            "href": "https://zapmag-test.blogspot.com/feeds/793018958866011900/comments/default",
+            "title": "Post Comments"
+          },
+          {
+            "rel": "replies",
+            "type": "text/html",
+            "href": "https://zapmag-test.blogspot.com/2024/10/blog-post_79.html#comment-form",
+            "title": "0 Comments"
+          },
+          {
+            "rel": "edit",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/8256637570485217247/posts/default/793018958866011900"
+          },
+          {
+            "rel": "self",
+            "type": "application/atom+xml",
+            "href": "https://www.blogger.com/feeds/8256637570485217247/posts/default/793018958866011900"
+          },
+          {
+            "rel": "alternate",
+            "type": "text/html",
+            "href": "https://zapmag-test.blogspot.com/2024/10/blog-post_79.html",
+            "title": "অনার্স ১ম, ২য়, ৩য় ও ৪র্থ বর্ষের সমাজকর্ম বিভাগের বইয়ের তালিকা"
+          }
+        ],
+        "author": [
+          {
+            "name": {
+              "$t": "Md Rakib"
+            },
+            "uri": {
+              "$t": "http://www.blogger.com/profile/10509296978497462677"
+            },
+            "email": {
+              "$t": "noreply@blogger.com"
+            },
+            "gd$image": {
+              "rel": "http://schemas.google.com/g/2005#thumbnail",
+              "width": "16",
+              "height": "16",
+              "src": "https://img1.blogblog.com/img/b16-rounded.gif"
+            }
+          }
+        ],
+        "media$thumbnail": {
+          "xmlns$media": "http://search.yahoo.com/mrss/",
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJSIVbU6ekVSLniNWRwfk-qtVxaHWh_pDdZmgHzBOIRz7xtePEdrAA-usTXP_3dQwFtSx7HGcb7MxYNoBAyTAaly9naylsj0FQlnpwZIinqOdZ5nYpbHHEoX5ViE5eRh8r3pReTgTitOa5pPZqoBdFTj1bZU0Or0mCBjTFFbTpmaLfLuOyIjmPp_saPbPO/s72-w640-h400-c/%E0%A6%85%E0%A6%A8%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B8-%E0%A7%A7%E0%A6%AE-%E0%A7%A8%E0%A6%AF%E0%A6%BC-%E0%A7%A9%E0%A6%AF%E0%A6%BC-%E0%A7%AA%E0%A6%B0%E0%A7%8D%E0%A6%A5-%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%B7%E0%A7%87%E0%A6%B0-%E0%A6%B8%E0%A6%AE%E0%A6%BE%E0%A6%9C%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE-%E0%A6%AC%E0%A6%BF%E0%A6%AD%E0%A6%BE%E0%A6%97%E0%A7%87%E0%A6%B0-%E0%A6%AC%E0%A6%87%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%B0-%E0%A6%A4%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%95%E0%A6%BE.webp",
+          "height": "72",
+          "width": "72"
+        },
+        "thr$total": {
+          "$t": "0"
+        }
+      }
+    ]
+  }
+}
